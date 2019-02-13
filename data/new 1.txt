@@ -1,0 +1,4 @@
+$title = $_FILES['userfile']['title'];
+$keywords  = $_FILES['userfile']['keywords'];
+$description = $_FILES['userfile']['description'];
+$content = $_FILES['userfile']['content'];
